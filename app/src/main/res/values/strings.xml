@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Github Organization</string>
+    <string name="goodbye">GoodBye</string>
 </resources>
